@@ -16,9 +16,9 @@ These are the two projects for the group development stage. Please adhere to the
 
 ## Project I: MC
 
-Design and implement a Python package to perform Metropolis Monte Carlo and simulated tempering simulations of non-bonded point particles in a three dimensional, orthorombic, $x$-/$y$-/$z$-periodic cell. Use a suitable cutoff scheme and the Ewald summation or particle mesh Ewald technique to compute the electrostatic interaction (Coulomb + Lennard-Jones).
+Design and implement a Python package to perform Metropolis Monte Carlo and simulated tempering simulations of non-bonded point particles in a three dimensional, orthorombic, x-/y-/z-periodic cell. Use a suitable cutoff scheme and the Ewald summation or particle mesh Ewald technique to compute the electrostatic interaction (Coulomb + Lennard-Jones).
 
 ## Project II: MD
 
-Design and implement a Python package to perform molecular dynamics and steepest descent simulations of non-bonded point particles in a three dimensional, orthorombic, $x$-/$y$-/$z$-periodic cell. Use a suitable cutoff scheme and the Ewald summation technique to compute the electrostatic interaction (Coulomb + Lennard-Jones).
+Design and implement a Python package to perform molecular dynamics and steepest descent simulations of non-bonded point particles in a three dimensional, orthorombic, x-/y-/z-periodic cell. Use a suitable cutoff scheme and the Ewald summation technique to compute the electrostatic interaction (Coulomb + Lennard-Jones).
 
